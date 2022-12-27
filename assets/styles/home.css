@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+.pilih {
+  background-color: rgb(54, 236, 109);
+  color: white;
+  font-weight: bold;
+}
+
+#total_bayar {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.card-title {
+  font-size: 25px;
+}
+
+.card-header {
+  font-weight: bold;
+}
+
+.navbar {
+  position: sticky;
+  z-index: 1;
+  top: 0;
+  width: 100%;
+}
+
+header {
+  display: inline;
+}
